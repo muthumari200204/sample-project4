@@ -44,7 +44,7 @@ const data = [
   const text = document.querySelector("#text");
   let index = 0;
   
-  //Function on window load
+ 
   window.addEventListener("DOMContentLoaded", function () {
     const testimonial = data[0];
     loadTestimonial(testimonial);
